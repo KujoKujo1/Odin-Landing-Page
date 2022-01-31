@@ -1,0 +1,262 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: #1F2937;
+}
+.nav-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+
+.header-logo {
+    color: #F9FAF8;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+.nav-links{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-indent: 10px;
+    margin-right: 325px;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto';
+    margin: 20px;
+}
+
+.sd-main{
+    display:flex;
+    background-color: #1F2937;
+    color: white;
+    max-width: 100%;
+    height: 450px;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.sd-main-container{
+    display:flex;
+    margin-top: 75px;
+    flex-direction: column;
+    margin-left: 300px;
+}
+
+.main-img-container{
+    display: flex;
+    margin-right: 300px;
+    margin-top: 25px;
+    width: 600px;
+    height: 350px;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.main-img{
+    display:flex;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    background-color: grey;
+    
+}
+
+.mm-text{
+    font-family: 'Roboto';
+    font-size: 70px;
+    font-weight: 900;
+    color: #F9FAF8;
+
+}
+
+.sub-text-m{
+    font-size: 20px;
+    font-family: 'Roboto';
+    margin-top: 5px;
+}
+
+.m-signup-btn{
+    margin-top:15px;
+    border: none;
+    background-color: #3882F6;
+    border-radius: 15px;
+    height: 40px;
+    width: 100px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.m-signup-btn a{
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: bolder;
+    color:white;
+    display:inline-block;
+    margin: 9px;
+}
+
+
+.main-img p{
+    text-align: center;
+}
+
+.random-info{
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.ri-header{
+    font-size: 32px;
+    color: #1F2937;
+    font-weight: bold;
+    font-family: 'Roboto';
+    margin-left: 50px;
+    justify-content: center;
+}
+
+.info-boxes{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+}
+
+.box-1{
+    height: 250px;
+    width: 250px;
+    border: #3882F6 solid 10px;
+    border-radius: 20px;
+}
+
+.box-2{
+    height: 250px;
+    width: 250px;
+    border: #3882F6 solid 10px;
+    border-radius: 20px;
+}
+
+.box-3{
+    height: 250px;
+    width: 250px;
+    border: #3882F6 solid 10px;
+    border-radius: 20px;
+}
+
+.quote-section-container{
+    display:flex;
+    background-color: #E5E7EB;
+    width: auto;
+    height: 500px;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.quote{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-thor{
+    display:flex;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    color: #1F2937;
+    font-style: italic;
+    margin-top: 100px;
+    margin-left: 10px;
+    align-items: center;
+}
+
+.bottom-signup-container{
+    display:flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-signup-box{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    height: 200px;
+    width: 1500px;
+    border-radius: 15px;
+    flex-direction: row-reverse;
+    background-color: #3882F6;
+}
+
+.bottom-text-header{
+    display:flex;
+    font-family: 'Roboto';
+    font-weight: bolder;
+    font-size: 32px;
+    color: white;
+}
+
+.bottom-text-subtext{
+    display: flex;
+    font-family: 'Roboto';
+    font-weight: lighter;
+    font-size:23px;
+    color: #E5E7EB;
+}
+
+.box-signup{
+    display:flex;
+    font-family: 'Roboto';
+    border: white solid;
+    padding: 10px;
+    justify-content: center;
+    width: 120px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 25px;
+    color: white;
+}
+
+.box-signup a{
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
